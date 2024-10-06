@@ -232,7 +232,7 @@ select currperiod.name as periodo,
         <textElement textAlignment="Center">
           <font size="12" isBold="true" isUnderline="false" pdfFontName="Helvetica-Bold" />
         </textElement>
-        <text><![CDATA[FORMATO 3.20 : "Libro de Inventarios y Balances - Estado de Ganancias y Pérdidas"]]></text>
+        <text><![CDATA[FORMATO 3.20 : "Libro de inventarios y balances - Estado de ganancias y pérdidas"]]></text>
       </staticText>
       <textField isBlankWhenNull="false">
         <reportElement uuid="3af4825c-c66a-4951-b451-3585ce59b82e" key="textField-1" x="137" y="40" width="258" height="20" />

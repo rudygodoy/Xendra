@@ -355,7 +355,7 @@ select currperiod.name as periodo,
         <text><![CDATA[Otros ingresos operacionales]]></text>
       </staticText>
       <staticText>
-        <reportElement uuid="c13777c7-38ed-4eb8-bbc9-cc1da5eccbab" key="staticText-43" x="137" y="77" width="274" height="15" />
+        <reportElement uuid="c13777c7-38ed-4eb8-bbc9-cc1da5eccbab" key="staticText-43" x="70" y="77" width="341" height="15" />
         <textElement textAlignment="Left" verticalAlignment="Middle">
           <font isBold="true" />
         </textElement>
@@ -367,7 +367,7 @@ select currperiod.name as periodo,
         <text><![CDATA[Costo de Ventas]]></text>
       </staticText>
       <staticText>
-        <reportElement uuid="3401902a-dbe6-40c7-bd83-6ccd1f4112fa" key="staticText-45" x="137" y="127" width="274" height="15" />
+        <reportElement uuid="3401902a-dbe6-40c7-bd83-6ccd1f4112fa" key="staticText-45" x="70" y="127" width="341" height="15" />
         <textElement textAlignment="Left" verticalAlignment="Middle">
           <font isBold="true" />
         </textElement>
@@ -391,7 +391,7 @@ select currperiod.name as periodo,
         <text><![CDATA[Gastos de venta]]></text>
       </staticText>
       <staticText>
-        <reportElement uuid="c92e3208-1d7c-4f06-8032-85f2ac1cb0d8" key="staticText-49" x="137" y="206" width="274" height="15" />
+        <reportElement uuid="c92e3208-1d7c-4f06-8032-85f2ac1cb0d8" key="staticText-49" x="70" y="206" width="341" height="15" />
         <textElement textAlignment="Left" verticalAlignment="Middle">
           <font isBold="true" />
         </textElement>
@@ -425,11 +425,11 @@ select currperiod.name as periodo,
         <text><![CDATA[Otros gastos]]></text>
       </staticText>
       <staticText>
-        <reportElement uuid="108aecfc-0d5c-4a03-89f5-44daee77bee9" key="staticText-55" x="137" y="337" width="274" height="15" />
+        <reportElement uuid="108aecfc-0d5c-4a03-89f5-44daee77bee9" key="staticText-55" x="70" y="337" width="341" height="15" />
         <textElement textAlignment="Left" verticalAlignment="Middle">
           <font isBold="true" />
         </textElement>
-        <text><![CDATA[Resultados antes de participaciones, impuestos y part. extraord.]]></text>
+        <text><![CDATA[Resultados antes de participaciones, imp. a la renta y p. extraord.]]></text>
       </staticText>
       <staticText>
         <reportElement uuid="9081c7e0-6015-4400-961e-dd55916c3b73" key="staticText-56" x="10" y="360" width="401" height="15" />
@@ -447,7 +447,7 @@ select currperiod.name as periodo,
         <text><![CDATA[Resultados por exposición a la inflación]]></text>
       </staticText>
       <staticText>
-        <reportElement uuid="b272fafd-c7ff-4f01-89c3-58ca3f36aabb" key="staticText-59" x="137" y="398" width="274" height="15" />
+        <reportElement uuid="b272fafd-c7ff-4f01-89c3-58ca3f36aabb" key="staticText-59" x="70" y="398" width="341" height="15" />
         <textElement textAlignment="Left" verticalAlignment="Middle">
           <font isBold="true" />
         </textElement>
@@ -464,7 +464,7 @@ select currperiod.name as periodo,
         <text><![CDATA[Gastos extraordinarios]]></text>
       </staticText>
       <staticText>
-        <reportElement uuid="ff753ed9-0269-4264-8eef-f505c0b62363" key="staticText-62" x="137" y="462" width="274" height="15" />
+        <reportElement uuid="ff753ed9-0269-4264-8eef-f505c0b62363" key="staticText-62" x="70" y="462" width="341" height="15" />
         <textElement textAlignment="Left" verticalAlignment="Middle">
           <font isBold="true" />
         </textElement>
@@ -476,7 +476,7 @@ select currperiod.name as periodo,
         <text><![CDATA[Interés minoritario]]></text>
       </staticText>
       <staticText>
-        <reportElement uuid="dc93dc1a-1c33-4065-99fa-6fdbe8406142" key="staticText-64" x="137" y="512" width="274" height="15" />
+        <reportElement uuid="dc93dc1a-1c33-4065-99fa-6fdbe8406142" key="staticText-64" x="70" y="512" width="341" height="15" />
         <textElement textAlignment="Left" verticalAlignment="Middle">
           <font isBold="true" />
         </textElement>

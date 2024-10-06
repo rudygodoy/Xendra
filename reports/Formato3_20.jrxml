@@ -337,7 +337,7 @@ select currperiod.name as periodo,
       <staticText>
         <reportElement uuid="f1423a17-5631-431c-a0e9-684a3beec6fd" key="staticText-40" x="10" y="5" width="401" height="30" />
         <textElement textAlignment="Center" verticalAlignment="Middle" />
-        <text><![CDATA[Descricpción]]></text>
+        <text><![CDATA[Descripción]]></text>
       </staticText>
       <line>
         <reportElement uuid="7b2aa005-6410-469e-aa2d-7f1653f03a57" key="line-24" x="411" y="4" width="1" height="32" />
@@ -347,19 +347,19 @@ select currperiod.name as periodo,
         <textElement textAlignment="Left" verticalAlignment="Middle">
           <font size="10" />
         </textElement>
-        <text><![CDATA[Ventas Netas Ingresos Operacionales)]]></text>
+        <text><![CDATA[Ventas netas (Ingresos operacionales)]]></text>
       </staticText>
       <staticText>
         <reportElement uuid="46ae446d-3928-4a8a-9dba-0ee7c110f8c4" key="staticText-42" x="10" y="52" width="401" height="15" />
         <textElement textAlignment="Left" verticalAlignment="Middle" />
-        <text><![CDATA[Otros Ingresos Operacionales]]></text>
+        <text><![CDATA[Otros ingresos operacionales]]></text>
       </staticText>
       <staticText>
         <reportElement uuid="c13777c7-38ed-4eb8-bbc9-cc1da5eccbab" key="staticText-43" x="137" y="77" width="274" height="15" />
         <textElement textAlignment="Left" verticalAlignment="Middle">
           <font isBold="true" />
         </textElement>
-        <text><![CDATA[Total Ingresos Brutos]]></text>
+        <text><![CDATA[Total ingresos brutos]]></text>
       </staticText>
       <staticText>
         <reportElement uuid="5f82c3a9-4532-4171-9972-98b6bba5acf2" key="staticText-44" x="10" y="103" width="401" height="15" />
@@ -371,65 +371,65 @@ select currperiod.name as periodo,
         <textElement textAlignment="Left" verticalAlignment="Middle">
           <font isBold="true" />
         </textElement>
-        <text><![CDATA[Utilidad Bruta]]></text>
+        <text><![CDATA[Utilidad bruta]]></text>
       </staticText>
       <staticText>
         <reportElement uuid="dd845a02-5a37-4933-9f5d-3794ad8091b4" key="staticText-46" x="10" y="149" width="401" height="15" />
         <textElement textAlignment="Left" verticalAlignment="Middle">
           <font isUnderline="true" />
         </textElement>
-        <text><![CDATA[Gastos Operacinales]]></text>
+        <text><![CDATA[Gastos operacionales]]></text>
       </staticText>
       <staticText>
         <reportElement uuid="942e7d32-291c-479d-a9a4-c87c048c7832" key="staticText-47" x="10" y="166" width="401" height="15" />
         <textElement textAlignment="Left" verticalAlignment="Middle" />
-        <text><![CDATA[Gastos Administrativos]]></text>
+        <text><![CDATA[Gastos administrativos]]></text>
       </staticText>
       <staticText>
         <reportElement uuid="50161188-1057-4b03-88b2-2460a9197e77" key="staticText-48" x="10" y="182" width="401" height="15" />
         <textElement textAlignment="Left" verticalAlignment="Middle" />
-        <text><![CDATA[Gastos de Venta]]></text>
+        <text><![CDATA[Gastos de venta]]></text>
       </staticText>
       <staticText>
         <reportElement uuid="c92e3208-1d7c-4f06-8032-85f2ac1cb0d8" key="staticText-49" x="137" y="206" width="274" height="15" />
         <textElement textAlignment="Left" verticalAlignment="Middle">
           <font isBold="true" />
         </textElement>
-        <text><![CDATA[Utilidad Operativa]]></text>
+        <text><![CDATA[Utilidad operativa]]></text>
       </staticText>
       <staticText>
         <reportElement uuid="456667d1-6a0c-4b71-80ca-07455453c03f" key="staticText-50" x="10" y="232" width="401" height="15" />
         <textElement textAlignment="Left" verticalAlignment="Middle">
           <font isUnderline="true" />
         </textElement>
-        <text><![CDATA[Otros Ingreso (Gastos)]]></text>
+        <text><![CDATA[Otros ingresos (Gastos)]]></text>
       </staticText>
       <staticText>
         <reportElement uuid="7c210f8e-27e5-47a6-af14-a5eec4fd5671" key="staticText-51" x="10" y="249" width="401" height="15" />
         <textElement textAlignment="Left" verticalAlignment="Middle" />
-        <text><![CDATA[Otros Ingresos]]></text>
+        <text><![CDATA[Otros ingresos]]></text>
       </staticText>
       <staticText>
         <reportElement uuid="1e2d8c02-fa88-43b2-a601-6b8a7493ebe2" key="staticText-52" x="10" y="266" width="401" height="15" />
         <textElement textAlignment="Left" verticalAlignment="Middle" />
-        <text><![CDATA[Gastos Financieros]]></text>
+        <text><![CDATA[Gastos financieros]]></text>
       </staticText>
       <staticText>
         <reportElement uuid="c1ccfa7c-9c7c-4742-afdd-0ade9e8108e8" key="staticText-53" x="10" y="283" width="401" height="15" />
         <textElement textAlignment="Left" verticalAlignment="Middle" />
-        <text><![CDATA[Otros Ingresos]]></text>
+        <text><![CDATA[Otros ingresos]]></text>
       </staticText>
       <staticText>
         <reportElement uuid="c2d6b8b4-0c0b-4d14-ab48-3daef2df80a2" key="staticText-54" x="10" y="299" width="401" height="15" />
         <textElement textAlignment="Left" verticalAlignment="Middle" />
-        <text><![CDATA[Otros Gastos]]></text>
+        <text><![CDATA[Otros gastos]]></text>
       </staticText>
       <staticText>
         <reportElement uuid="108aecfc-0d5c-4a03-89f5-44daee77bee9" key="staticText-55" x="137" y="337" width="274" height="15" />
         <textElement textAlignment="Left" verticalAlignment="Middle">
           <font isBold="true" />
         </textElement>
-        <text><![CDATA[Result. Ant Part., Imp Renta y Part. Extraordinarias]]></text>
+        <text><![CDATA[Resultados antes de participaciones, impuestos y part. extraord.]]></text>
       </staticText>
       <staticText>
         <reportElement uuid="9081c7e0-6015-4400-961e-dd55916c3b73" key="staticText-56" x="10" y="360" width="401" height="15" />
@@ -439,48 +439,48 @@ select currperiod.name as periodo,
       <staticText>
         <reportElement uuid="c9a786c1-0577-4355-9419-27f8cb3b4b36" key="staticText-57" x="10" y="376" width="401" height="15" />
         <textElement textAlignment="Left" verticalAlignment="Middle" />
-        <text><![CDATA[Impuesto a la Renta]]></text>
+        <text><![CDATA[Impuesto a la renta]]></text>
       </staticText>
       <staticText>
         <reportElement uuid="142bccc3-090f-4903-8e48-e29336114a6d" key="staticText-58" x="10" y="315" width="401" height="15" />
         <textElement textAlignment="Left" verticalAlignment="Middle" />
-        <text><![CDATA[Resultados por Exposición a la Inflación]]></text>
+        <text><![CDATA[Resultados por exposición a la inflación]]></text>
       </staticText>
       <staticText>
         <reportElement uuid="b272fafd-c7ff-4f01-89c3-58ca3f36aabb" key="staticText-59" x="137" y="398" width="274" height="15" />
         <textElement textAlignment="Left" verticalAlignment="Middle">
           <font isBold="true" />
         </textElement>
-        <text><![CDATA[Resultados Antes de Partidas Extraordinarias]]></text>
+        <text><![CDATA[Resultados antes de partidas extraordinarias]]></text>
       </staticText>
       <staticText>
         <reportElement uuid="f4034a1b-e119-4b72-bcbb-507af8c0370b" key="staticText-60" x="10" y="423" width="401" height="15" />
         <textElement textAlignment="Left" verticalAlignment="Middle" />
-        <text><![CDATA[Ingresos Extraordinarios]]></text>
+        <text><![CDATA[Ingresos extraordinarios]]></text>
       </staticText>
       <staticText>
         <reportElement uuid="f6d2f3d7-5007-4481-8cab-6382006645dd" key="staticText-61" x="10" y="439" width="401" height="15" />
         <textElement textAlignment="Left" verticalAlignment="Middle" />
-        <text><![CDATA[Gastos Extraordinarios]]></text>
+        <text><![CDATA[Gastos extraordinarios]]></text>
       </staticText>
       <staticText>
         <reportElement uuid="ff753ed9-0269-4264-8eef-f505c0b62363" key="staticText-62" x="137" y="462" width="274" height="15" />
         <textElement textAlignment="Left" verticalAlignment="Middle">
           <font isBold="true" />
         </textElement>
-        <text><![CDATA[Resultados Antes de Interes Minoritario]]></text>
+        <text><![CDATA[Resultados antes de interés minoritario]]></text>
       </staticText>
       <staticText>
         <reportElement uuid="43bcd234-5247-4e8e-b282-f03c54da0eb6" key="staticText-63" x="10" y="488" width="401" height="15" />
         <textElement textAlignment="Left" verticalAlignment="Middle" />
-        <text><![CDATA[Interés Minoritario]]></text>
+        <text><![CDATA[Interés minoritario]]></text>
       </staticText>
       <staticText>
         <reportElement uuid="dc93dc1a-1c33-4065-99fa-6fdbe8406142" key="staticText-64" x="137" y="512" width="274" height="15" />
         <textElement textAlignment="Left" verticalAlignment="Middle">
           <font isBold="true" />
         </textElement>
-        <text><![CDATA[Utilidad (Pérdida del Ejercicio)]]></text>
+        <text><![CDATA[Utilidad (Pérdida) del ejercicio]]></text>
       </staticText>
       <textField pattern="#,##0.00" isBlankWhenNull="false">
         <reportElement uuid="4ed88d58-c23f-4ca6-be13-47d858ae2014" key="textField" x="421" y="37" width="82" height="13" />
